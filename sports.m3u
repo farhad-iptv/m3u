@@ -1,3 +1,13 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1633191289356431361/OdKOXawp_400x400.jpg" group-title="Sports", Fox 501 AQ
+https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd|drmScheme=clearkey&drmLicense=01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22
+#EXTINF:0 tvg-logo="https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60" group-title="Sports", Willow AQ
+https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/5vnbzbfrqv/out/v1/e9b937f395f447e3b0898bfc9620537f/cenc.mpd|drmScheme=clearkey&drmLicense=265524cc4acc39c9be2bace0244feffe:e2eacd551e75037cee0ec5f53f951acc
+#EXTINF:0 tvg-logo="https://logowik.com/content/uploads/images/kayo1612.logowik.com.webp" group-title="Sports", Kayo Hindi
+https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/38970a6e3f6f42b5a0ef07ad51a68d0c/index.mpd?|drmScheme=clearkey&drmLicense=f1f97a734b1752ae9c3639310b105278:57e0135e10a8ed3246b8306ada268954
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1633191289356431361/OdKOXawp_400x400.jpg" group-title="Sports", Fox 501 FHD
+https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd|drmScheme=clearkey&drmLicense=01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1633191289356431361/OdKOXawp_400x400.jpg" group-title="Sports", Fox 501 FHD
+https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd|drmScheme=clearkey&drmLicense=01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1633191289356431361/OdKOXawp_400x400.jpg" group-title="Sports", Fox 501 FHD
 https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd|drmScheme=clearkey&drmLicense=01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22
