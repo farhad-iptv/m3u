@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Sports", Bein Sports 1
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTINF:0 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="Sports", Bein Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTINF:0 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="Sports", Bein Sports 3
+https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTINF:0 tvg-logo="https://assets.goal.com/images/v3/blt11f0ca9698828744/beINSPORTS-XTRA_ESPANOL-LOGO.jpg?auto=webp&format=pjpg&width=3840&quality=60" group-title="Sports", Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSErwQ_wSkw2FGZwzbPUkrsTW4-zFkXQmDTzQ&s" group-title="Sports", Arena Sport CZ 1
+https://estreams.tv.nej.cz/dash/CH_ARENASPORT1_Portable.ism/playlist.mpd
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_6j4fQjPCJGTXI8JOSH3w38wv1ePchfmplw&s" group-title="Sports", Arena Sport CZ 2
+https://estreams.tv.nej.cz/dash/CH_ARENASPORT2_Portable.ism/playlist.mpd
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyd39s4p5wAsdPHX9p5T1tV_YOd0r2enyn1g&s" group-title="Sports", CBS Sports
+https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+#EXTINF:0 tvg-logo="https://static.vecteezy.com/system/resources/previews/069/146/538/non_2x/fancode-app-icon-on-transparent-background-free-png.png" group-title="Sports", Fancode
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGGP9M64adVy-H4vB-r4UfSg9fCnKP9dDORg&s" group-title="Sports", Fubo Sports 1
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|drmScheme=clearkey&drmLicense=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+
+#EXTINF:0 tvg-logo="https://assets.goal.com/images/v3/bltdfff24b5ace5cddf/fox-sports-2%20logo.jpg?width=1400&upscale=true" group-title="Sports", Fox 2 USA
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+#EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png" group-title="Sports", TVRI Sport
+https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
