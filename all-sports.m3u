@@ -50,19 +50,19 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 
 
-#EXTINF:0 tvg-logo="logo" group-title="Sports", TSN 1
+#EXTINF:0 tvg-logo="" group-title="Sports", TSN 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 
-#EXTINF:0 tvg-logo="logo" group-title="Sports", TSN 2
+#EXTINF:0 tvg-logo="" group-title="Sports", TSN 2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
 
-#EXTINF:0 tvg-logo="logo" group-title="Sports", TSN 3
+#EXTINF:0 tvg-logo="" group-title="Sports", TSN 3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd|drmScheme=clearkey&drmLicense=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
 
-#EXTINF:0 tvg-logo="logo" group-title="Sports", TSN 4
+#EXTINF:0 tvg-logo="" group-title="Sports", TSN 4
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
 
-#EXTINF:0 tvg-logo="logo" group-title="Sports", TSN 5
+#EXTINF:0 tvg-logo="" group-title="Sports", TSN 5
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd|drmScheme=clearkey&drmLicense=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 
 #EXTINF:0 tvg-logo="logo" group-title="Sports", TV5 Monde
