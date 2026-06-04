@@ -1,5 +1,8 @@
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lebanon vs Yemen 23:00 ngày 04/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com
+#EXTVLCOPT:http-origin=https://xl365.buzzscorelinez.com
 https://live2.pro2cdnlive.com/live/channel6.m3u8
+
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/46/2/tvri-sport-2022-logo-png_seeklogo-460117.png" group-title="Sports", TVRI Sport
+https://live2.pro2cdnlive.com/live/channel6.m3u8|Referer=https://xl365.buzzscorelinez.com/&Origin=https://xl365.buzzscorelinez.com
