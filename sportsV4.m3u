@@ -1,38 +1,445 @@
 #EXTM3U
-
-#EXTINF:0 tvg-logo="" group-title="Sports", WILLOW FHD AD Free
+#EXTINF:-1 group-title="Cricket | Upcoming",WILLOW FHD AD Free
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/k9bsz8cflm/out/v1/ce4d6ba95ace46d6af61c04d617836a3/cenc.mpd|drmScheme=clearkey&drmLicense=e24d997a3d30c3a4cc98125302382c23:45dea9acb0dcf1f56c86a3881bc3957d
-
-#EXTINF:0 tvg-logo="" group-title="Sports", TNT SPORTS FHD
+#EXTINF:-1 group-title="Cricket | Upcoming",TNT SPORTS FHD
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd|drmScheme=clearkey&drmLicense=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-
-#EXTINF:0 tvg-logo="" group-title="Sports", FANCODE FHD
+#EXTINF:-1 group-title="Cricket | Upcoming",FANCODE FHD
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-
-#EXTINF:0 tvg-logo="" group-title="Sports", WILLOW SD (HLS)
+#EXTINF:-1 group-title="Cricket | Upcoming",WILLOW SD
 http://193.47.62.40/hls/FUUUQQ.m3u8|referer=http://www.fawanews.sc/
-
-#EXTINF:0 tvg-logo="" group-title="Sports", FANCODE SD
+#EXTINF:-1 group-title="Cricket | Upcoming",FANCODE SD
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd|drmScheme=clearkey&drmLicense=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
-
-#EXTINF:0 tvg-logo="" group-title="Sports", WILLOW SD (DASH Alt)
+#EXTINF:-1 group-title="Cricket | Upcoming",WILLOW SD
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/c3wtw6a0k6/out/v1/650581e3b31e4900a00b62a720b80212/cenc-sd.mpd|drmScheme=clearkey&drmLicense=21ddd82bce24eb4aba2a64f34fa4897f:0c50c19d91893d2b391508c382b60041
-
-#EXTINF:0 tvg-logo="" group-title="Sports", WILLOW FHD ALT
+#EXTINF:-1 group-title="Cricket | Upcoming",WILLOW FHD ALT
 https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/k9bsz8cflm/out/v1/ce4d6ba95ace46d6af61c04d617836a3/cenc.mpd|drmScheme=clearkey&drmLicense=e24d997a3d30c3a4cc98125302382c23:45dea9acb0dcf1f56c86a3881bc3957d
-
-#EXTINF:0 tvg-logo="" group-title="Sports", WILLOW HD
+#EXTINF:-1 group-title="Cricket | Upcoming",WILLOW HD
 https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/t3CktfZy_SvNpbPDPXfKhXgYNTpAtg9SbA43X4Er82mC9luDte-S7jIzYUMFIlQ4vuI_4sErlLqVpw5b2sYvuNEDiPwnlsflia9n602wfmHECIHvx4Om9SV1P4IkhUb4UxxqOCHnvHbQoT04UNWgxlSYFdQoui7741r_niCy2hdKcpioMxy3byK4NqbFtMHpYAtVbkJD86G04YD4paEQLbtZhlOcVT1QXAdf-RYVRu7SZmaKGQq7VHmFT_1XvNH8/hls/index.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="Sports", WILLOW FHD
+#EXTINF:-1 group-title="Cricket | Upcoming",WILLOW FHD
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ijymfkmsh9/out/v1/b405475cd043409d9b0bf6790f6de857/cenc.mpd|drmScheme=clearkey&drmLicense=91f327289dd4a52031399fcdca3f65b2:b382baa77c6f7724799009f403701d0c
-
-#EXTINF:0 tvg-logo="" group-title="Sports", WILLOW ALT
+#EXTINF:-1 group-title="Cricket | Upcoming",WILLOW ALT
 https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ijymfkmsh9/out/v1/b405475cd043409d9b0bf6790f6de857/cenc.mpd|drmScheme=clearkey&drmLicense=91f327289dd4a52031399fcdca3f65b2:b382baa77c6f7724799009f403701d0c
-
-#EXTINF:0 tvg-logo="" group-title="Sports", SKY CRICKET HD
+#EXTINF:-1 group-title="Cricket | Upcoming",SKY CRICKET HD
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-
-#EXTINF:0 tvg-logo="" group-title="Sports", SD SERVER
+#EXTINF:-1 group-title="Cricket | Upcoming",SD SERVER
 http://193.47.62.42/hls/nnnn.m3u8|Referer=http://www.fawanews.sc/
-
+#EXTINF:-1 group-title="Cricket | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Motorsport | Upcoming",FANCODE FHD
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+#EXTINF:-1 group-title="Motorsport | Upcoming",SKY SPORTS DE
+https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd|drmScheme=clearkey&drmLicense=6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9
+#EXTINF:-1 group-title="Motorsport | Upcoming",TSN SPORTS FHD
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd|drmScheme=clearkey&drmLicense=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
+#EXTINF:-1 group-title="Motorsport | Upcoming",F1 TV FHD
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd|drmScheme=clearkey&drmLicense=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
+#EXTINF:-1 group-title="Motorsport | Upcoming",FORMULA 1 HD
+https://chatgpt.hereisman.net/playlist/51586/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
+#EXTINF:-1 group-title="Motorsport | Upcoming",TSN SPORTS HD
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+#EXTINF:-1 group-title="Motorsport | Upcoming",FORMULA 1 FHD
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d823f050-8955-4ca8-ac92-f3030245cd98/master.m3u8
+#EXTINF:-1 group-title="Motorsport | Upcoming",SKY SPORTS HD
+https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+#EXTINF:-1 group-title="Motorsport | Upcoming",ELEVEN SPORTS
+https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd|drmScheme=clearkey&drmLicense=69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59
+#EXTINF:-1 group-title="Motorsport | Upcoming",Sky F1 DE
+https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
+#EXTINF:-1 group-title="Motorsport | Upcoming",FOX SPORTS AQ
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd|drmScheme=clearkey&drmLicense=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+#EXTINF:-1 group-title="Motorsport | Upcoming",ZIGGO SPORT 3
+https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,|drmScheme=clearkey&drmLicense=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
+#EXTINF:-1 group-title="Motorsport | Upcoming",MotoGP FHD
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/qo7321fukr/out/v1/8197c8e055c94a868623653ac55c10bf/55a4d663-c6f9-449c-aa34-2c96144dd41e-cenc.mpd|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTINF:-1 group-title="Motorsport | Upcoming",TNT SPORTS HD
+https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1034.m3u8
+#EXTINF:-1 group-title="Motorsport | Upcoming",FANCODE FHD
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+#EXTINF:-1 group-title="Motorsport | Upcoming",SPO TV FHD
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+#EXTINF:-1 group-title="Motorsport | Upcoming",ZIGGO SPORT AQ
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621|drmScheme=clearkey&drmLicense=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+#EXTINF:-1 group-title="Motorsport | Upcoming",TNT SPORTS SD
+https://instreams.pro/bil1/motogpen/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
+#EXTINF:-1 group-title="Motorsport | Upcoming",DAZN SPORTS
+https://instreams.pro/bil1/motogpfr/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
+#EXTINF:-1 group-title="Motorsport | Upcoming",CANAL+ HD
+https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
+#EXTINF:-1 group-title="Motorsport | Upcoming",RALLY TV
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8
+#EXTINF:-1 group-title="Motorsport | Upcoming",TNT SPORTS 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd|drmScheme=clearkey&drmLicense=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+#EXTINF:-1 group-title="Motorsport | Upcoming",TNT SPORTS 4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd|drmScheme=clearkey&drmLicense=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+#EXTINF:-1 group-title="Boxing | Upcoming",RAW LIVE HD
+https://libgen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8
+#EXTINF:-1 group-title="Boxing | Upcoming",HD SERVER
+https://libgen.loreofeldenring.site/dailymotion/live/playlist/2.m3u8
+#EXTINF:-1 group-title="Boxing | Upcoming",HD SERVER 2
+https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/
+#EXTINF:-1 group-title="Boxing | Upcoming",BACKUP SD
+https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/
+#EXTINF:-1 group-title="Boxing | Upcoming",HD SERVER
+https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/
+#EXTINF:-1 group-title="Boxing | Upcoming",BACKUP SD
+https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com
+#EXTINF:-1 group-title="Boxing | Upcoming",SD SERVER
+https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/
+#EXTINF:-1 group-title="Boxing | Upcoming",HD WWE
+https://602.shdigital.site/wwe.m3u8|referer=https://roxiestreams.info/
+#EXTINF:-1 group-title="Boxing | Upcoming",TSN SPORTS
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
+#EXTINF:-1 group-title="Boxing | Upcoming",Fox Sports Premium
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd|drmScheme=clearkey&drmLicense=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+#EXTINF:-1 group-title="Boxing | Upcoming",BACKUP HD
+https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/
+#EXTINF:-1 group-title="Boxing | Upcoming",BACKUP SD
+https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com
+#EXTINF:-1 group-title="Boxing | Upcoming",HD SERVER
+https://28ugbcsxrxra.windows-devs.top/AccessLog2/108086_HD/apache.m3u8|Referer=https://28ugbcsxrxra.windows-devs.top/
+#EXTINF:-1 group-title="Boxing | Upcoming",SD SERVER
+https://29pisfqlcvyi.windows-devs.top/AccessLog2/108086_LQ/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/
+#EXTINF:-1 group-title="Boxing | Upcoming",ONE FIGHT - AQ
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
+#EXTINF:-1 group-title="Boxing | Upcoming",SERVER 2
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd|drmScheme=clearkey&drmLicense=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+#EXTINF:-1 group-title="Boxing | Upcoming",HD SERVER
+https://chatgpt.hereisman.net/playlist/47109/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net/
+#EXTINF:-1 group-title="Boxing | Upcoming",BACKUP SD
+https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com
+#EXTINF:-1 group-title="Boxing | Upcoming",WWE HD
+https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/
+#EXTINF:-1 group-title="Boxing | Upcoming",BACKUP FHD
+https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/
+#EXTINF:-1 group-title="Boxing | Upcoming",USA TV (USA VPN)
+https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd|drmScheme=clearkey&drmLicense=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
+#EXTINF:-1 group-title="Boxing | Upcoming",SD SERVER
+http://195.178.110.2/hls/KZZZQQQQQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Tennis | Upcoming",TNT SPORTS FHD
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|drmScheme=clearkey&drmLicense=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+#EXTINF:-1 group-title="Tennis | Upcoming",TNT SPORTS FHD
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd|drmScheme=clearkey&drmLicense=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+#EXTINF:-1 group-title="Tennis | Upcoming",FANCODE FHD
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+#EXTINF:-1 group-title="Tennis | Upcoming",TSN SPORTS FHD
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd|drmScheme=clearkey&drmLicense=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
+#EXTINF:-1 group-title="Tennis | Upcoming",TSN SPORTS FHD
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+#EXTINF:-1 group-title="Tennis | Upcoming",EURO SPORTS HD
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTINF:-1 group-title="Tennis | Upcoming",EURO SPORTS 2 HD
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",SPORT TV 1
+https://t7.ultrastream.vip/sporttv1/index.m3u8?|Referer=https://foottime.top/
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/RARARAQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/YOOOZZZ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/YOOOZZZ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/jjjRQQQQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/jjjRQQQQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/jjjRQQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/jjjRQQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",HD SERVER
+https://pul-tenm.nbs3g.com/live/sd-1-4544882.m3u8?txSecret=99d82e529bf849e74652a5e50e41f88f&txTime=6A241779
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/YOOOZ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",OMAN TV HD
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/YOOOZZZQQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/YOOOZZZQQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",HD SERVER
+https://pul-tenm.nbs3g.com/live/sd-1-4548224.m3u8?txSecret=a3c1ae3ede5d4710673c0bd44e7410e6&txTime=6A243413
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/jjjRQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/RARARAQQQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/RARARAQQQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/jjjR.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/jjjR.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/YOOOZZZQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/YOOOZZZQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/jjjRQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/jjjRQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/URRR.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/URRR.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",HD SERVER
+https://pul-tenm.nbs3g.com/live/sd-1-4544880.m3u8?txSecret=5e0a95ec25a68426e40886b75417965e&txTime=6A241075
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/RARARAQQQQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/RARARAQQQQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",KTV Sport HD
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/FSFSFSq.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/FSFSFSq.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",FOX DEPORTES
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER [USE VPN]
+http://193.47.62.59/hls/kyyyQQQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",ViX ESPANOL FHD
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x7pzfjyiyz/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd|drmScheme=clearkey&drmLicense=f1a57a5c642e443495518b65259040f6:fe7c05fb4069b731ae240067e00c9847
+#EXTINF:-1 group-title="Football | Upcoming",HD SERVER
+https://pul-tenm.nbs3g.com/live/sd-1-4544837.m3u8?txSecret=11205d4f6a92a555702107880931977d&txTime=6A244131
+#EXTINF:-1 group-title="Football | Upcoming",Bahrain SPORTS
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/JIIIZ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/JIIIZ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SKY SPORTS HD
+https://cdn9859.shop/skynz6.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",Bahrain SPORTS 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER [USE VPN]
+http://193.47.62.59/hls/ULLLQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",FUBO SPORTS
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd|drmScheme=clearkey&drmLicense=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
+#EXTINF:-1 group-title="Football | Upcoming",ViX ESPANOL FHD
+https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsa009vnvj/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd|drmScheme=clearkey&drmLicense=a7f2f18bb4fb1b05567c631726d3de4a:0e7a6ab0f87e2881f53555487a2263fa
+#EXTINF:-1 group-title="Football | Upcoming",Sport TV FHD
+https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+#EXTINF:-1 group-title="Football | Upcoming",LIVE SERVER
+https://pulltx.jdnzrgm.com/live/sd-6Mwe5Ztg3qnBYKLFDY.m3u8?txSecret=cf38364b3cc3baa28bb5978631eeac68&txTime=6A2323B9
+#EXTINF:-1 group-title="Football | Upcoming",beIN ARABIC SD
+https://cdn9859.shop/beinarabic2.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/JIIIZZZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",BACKUP HD
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780680380-0-0-7f509d837d193a2043a850c481536cc9
+#EXTINF:-1 group-title="Football | Upcoming",SONYLIV [ASIA]
+https://sonydaimenew.akamaized.net/hls/live/20000295/UEFA_Slo0506/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780720570~acl=/*~id=67481051117168541421919013170653~hmac=3dbbbea8d458b031111cfeea1bfd7aadba89f797135dc18cb2e6c39eb613eb35
+#EXTINF:-1 group-title="Football | Upcoming",VIX Espanol FHD
+https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ukqkiuvtk1/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd|drmScheme=clearkey&drmLicense=04b58f3bf6a446c7be711937fa985da5:02d165cd003cd18a1a923402324fd34e
+#EXTINF:-1 group-title="Football | Upcoming",SporTV BR
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd|drmScheme=clearkey&drmLicense=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+#EXTINF:-1 group-title="Football | Upcoming",Sport CZ FHD
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTINF:-1 group-title="Football | Upcoming",HD SERVER
+https://livecdn-bp-iptv.rumsport7.live/live_abr/68907/720p/chunks.m3u8?is_vip=false&token=9aa2ae64337c7054abb3b7aff7174b01ffe4fef7&x-sign=df7125b6950c5a6b3da0b1155648c503&x-time=1780682520|Referer=https://iframe.rumsport10.live/
+#EXTINF:-1 group-title="Football | Upcoming",LIVE SERVER
+https://pul-tenm.nbs3g.com/live/sd-1-4544897.m3u8?txSecret=d59ccba2c749a2b2cc8dda7de3319f5b&txTime=6A245829
+#EXTINF:-1 group-title="Football | Upcoming",Fox Soccer+ SD
+https://cdn9859.shop/foxsoccerplus.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",DAZN DE SD
+https://cdn9859.shop/dazn1de.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",SD STREAMS
+http://193.47.62.59/hls/ULLLQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",BACKUP HD
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780685599-0-0-f201b22b012b9752fd668e695be9e6cf
+#EXTINF:-1 group-title="Football | Upcoming",SONYLIV [ASIA]
+https://sonydaimenew.akamaized.net/hls/live/20000376/UEFA_Hun0506/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780725453~acl=/*~id=63181881859748954871263912686185~hmac=34b6481f3e31462593c9578efc4489a9fc88201688eb7aa7ed6782610e0f80b6
+#EXTINF:-1 group-title="Football | Upcoming",HD SERVER
+https://livecdn-bp-iptv.rumsport7.live/live_abr/68845/720p/chunks.m3u8?is_vip=false&token=126f92e4d0f50e9bf360fd1b7d6f7726c9cc9f23&x-sign=69b6c8b558b6f1b422cbf6d3b1d2e344&x-time=1780677960|Referer=https://iframe.rumsport10.live/
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER [USE VPN]
+http://193.47.62.59/hls/hyyyqqqqq.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",ViX ESPANOL FHD
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/st7fj0ouba/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd|drmScheme=clearkey&drmLicense=463841bdf32508b16bbebf1b274f41fe:f42b22d2550e28ac55b08cb77d9c9571
+#EXTINF:-1 group-title="Football | Upcoming",VIX SPANISH - LQ
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hvcz9oxxmp/out/v1/2d323ecf30094d63a0887d6ab71a1b91/cenc-sd.mpd|drmScheme=clearkey&drmLicense=80e0303e751aa4202568736ec01f05f9:2e561b64a656cdb653e340366a2de340
+#EXTINF:-1 group-title="Football | Upcoming",T SPORTS HD
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",LIVE SERVER
+https://pul-tenm.nbs3g.com/live/sd-1-4544894.m3u8?txSecret=5737a809b3021efaaaa46a05113d25c2&txTime=6A244C73
+#EXTINF:-1 group-title="Football | Upcoming",DAZN DE HD
+https://cdn9859.shop/dazn1de.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",T SPORTS SD
+http://103.175.242.10:8080/tsports1/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/GIIIIZZZ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/GIIIIZZZ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER [USE VPN]
+http://193.47.62.59/hls/hyyyqqqq.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",HD SERVER
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780764420-Kv4cPTAAP5YTi-126f92e4d0f50e9bf360fd1b7d6f7726c9cc9f23-432738a2d11c3751cdab2e4950890953|Referer=https://iframe.rumsport10.live/
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER [USE VPN]
+http://193.47.62.59/hls/hyyyqqqqqq.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",ViX ESPANOL FHD
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/n7amfkpiq9/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd|drmScheme=clearkey&drmLicense=4fafb854f0f6b5d5b2ad35b5813f35d9:8d53bd29d0e1024b872b00a9856f1ee5
+#EXTINF:-1 group-title="Football | Upcoming",ARABIC LIVE FHD
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/-h1YVPGV8i2ngv6FzHIuTZWm9cWOLACcgyBSsyBtG6rJj0n_JCRef_2rNz8OsbKZGNpMlrk0a8KD9N_Mb7SOJg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 group-title="Football | Upcoming",HD SERVER
+https://pul-tenm.nbs3g.com/live/sd-1-4544884.m3u8?txSecret=512dbeab8a626306ce2687570b52fd23&txTime=6A244131
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/JIII.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/JIII.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",beIN ARABIC HD
+https://hls.syrlive.online/bein1/master.m3u8|referer=https://zz.depoooo.com/
+#EXTINF:-1 group-title="Football | Upcoming",beIN ARABIC SD
+https://cdn9859.shop/beinarabic7.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",CBS GOLAZO
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER [USE VPN]
+http://193.47.62.50/hls/JIIIZZ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",LIVE SERVER
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1780680380-0-0-345386503c9a4be2b25cac6b37e6916e
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/GIIIIZZ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/GIIIIZZ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/GIIII.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/GIIII.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",ViX ESPANOL FHD
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lhso1gqyw0/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd|drmScheme=clearkey&drmLicense=65e2bd345073b6eaede77b93a25314fa:85ee3cb11c778d7944a28e63bd109c9e
+#EXTINF:-1 group-title="Football | Upcoming",SPORT 1 CZ
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTINF:-1 group-title="Football | Upcoming",LIVE SERVER
+https://pul-tenm.nbs3g.com/live/sd-1-4544831.m3u8?txSecret=90763e30a5f4a6bbbf443bdc1a8756b5&txTime=6A244C73
+#EXTINF:-1 group-title="Football | Upcoming",beIN ARABIC SD
+https://cdn9859.shop/beinarabic1.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.59/hls/hyyy.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SONYLIV [ASIA]
+https://sonydaimenew.akamaized.net/hls/live/20000296/UEFA_Mol0506/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780721795~acl=/*~id=81592926581146777821338759959995~hmac=fa528d883568935e04f0265f4aaada2309b0e6b4ed5068b1185d4282deafda03
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER [USE VPN]
+http://193.47.62.59/hls/ULLL.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",TVP SPORT
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/GIIIIZ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/GIIIIZ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",FOX DEPORTES
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+#EXTINF:-1 group-title="Football | Upcoming",HD SERVER
+http://193.47.62.50/hls/JIIIZZZZ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",LIVE SERVER
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780680379-0-0-b5b579294b1460ccc076da0e26c19219
+#EXTINF:-1 group-title="Football | Upcoming",LIVE SERVER
+https://pul-tenm.nbs3g.com/live/sd-1-4544892.m3u8?txSecret=9395cd2e8a0f406fc594f46553287aad&txTime=6A244C73
+#EXTINF:-1 group-title="Football | Upcoming",HD STREAM
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER [USE VPN]
+http://193.47.62.59/hls/hyyyq.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER
+http://193.47.62.50/hls/GIIIIZZZZ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",SD (USE VPN)
+http://193.47.62.50/hls/GIIIIZZZZ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",ViX Espanol FHD
+https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9qyjuz789c/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd|drmScheme=clearkey&drmLicense=69b8fde9762c6ad66e868f1de95889d8:217f9b602ac580e63df16dd31a8a8927
+#EXTINF:-1 group-title="Football | Upcoming",HD SERVER
+https://livecdn-bp-iptv.rumsport7.live/live_abr/68897/720p/chunks.m3u8?is_vip=false&token=9aa2ae64337c7054abb3b7aff7174b01ffe4fef7&x-sign=6e9bb82fd85a2f2b79376229070c0706&x-time=1780682520|Referer=https://iframe.rumsport10.live/
+#EXTINF:-1 group-title="Football | Upcoming",DIGI SPORTS HD
+https://chatgpt.hereisman.net/playlist/51608/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
+#EXTINF:-1 group-title="Football | Upcoming",VIX TUDN SD
+https://pul-tenm.nbs3g.com/live/sd-1-4544901.m3u8?txSecret=99ea5a4c53a2d0c89d622033d1574358&txTime=6A245829
+#EXTINF:-1 group-title="Football | Upcoming",SKY NZ HD
+https://cdn9859.shop/skynz6.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER [USE VPN]
+http://193.47.62.59/hls/ULLLQQQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",LIVE SERVER
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1780685600-0-0-2537a39a5da7eb6181ce02ce470c8e97
+#EXTINF:-1 group-title="Football | Upcoming",SONYLIV [ASIA]
+https://sonydaimenew.akamaized.net/hls/live/20000297/UEFA_Aze0506/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780725453~acl=/*~id=63181881859748954871263912686185~hmac=34b6481f3e31462593c9578efc4489a9fc88201688eb7aa7ed6782610e0f80b6
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER [USE VPN]
+http://193.47.62.59/hls/ZFFF.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER [USE VPN]
+http://193.47.62.59/hls/ULLLQQQQQQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER [USE VPN]
+http://193.47.62.59/hls/ULLLQQQQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",SD SERVER [USE VPN]
+http://193.47.62.59/hls/ZFFFZ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Baseball | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Baseball | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Baseball | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Baseball | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Baseball | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Baseball | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Baseball | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Baseball | Upcoming",MLB SERVER
+https://chatgpt.hereisman.net/playlist/51610/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
+#EXTINF:-1 group-title="Baseball | Upcoming",LIVE SERVER
+https://edgestreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+#EXTINF:-1 group-title="Baseball | Upcoming",HD SERVER
+https://601.thelistener.pk/mlb.m3u8
+#EXTINF:-1 group-title="Baseball | Upcoming",SD SERVER [USE VPN]
+http://193.47.62.59/hls/ULLLQQQQQQQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Baseball | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Baseball | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Baseball | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Baseball | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Baseball | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Baseball | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Baseball | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Basketball | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Basketball | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="Basketball | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
+#EXTINF:-1 group-title="American football | Upcoming",Ivan-FluX
+https://fallback-video.ivan-flux.workers.dev/video/index.m3u8
